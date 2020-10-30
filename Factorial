@@ -1,0 +1,12 @@
+//Calcular el factorial de un número
+e = int(input("Ingrese un número entero positivo:"))
+def fac(e):
+def i(1):
+if e>=0:
+	while i <= e :
+		fac = fac * i
+			i = i + 1
+  print('El factorial del numero:',e,' ','es:',fac)
+else: 
+	print('El número ingresado no es un valor entero positivo')
+end if

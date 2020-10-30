@@ -8,5 +8,5 @@ if e>=0:
 			i = i + 1
   print('El factorial del numero:',e,' ','es:',fac)
 else: 
-	print('El número ingresado no es un valor entero positivo')
+  print('El número ingresado no es un valor entero positivo')
 end if

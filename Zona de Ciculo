@@ -1,4 +1,4 @@
-//Calcular el area del circulo
+#Calcular el area del circulo
 
 radio = int(input("Ingrese el valor del radio del circulo:"))
 def p(3.1416):

@@ -1,0 +1,19 @@
+//Calcular el area del circulo
+
+radio = int(input("Ingrese el valor del radio del circulo:"))
+def p(3.1416):
+r=p*radio*radio:
+print("El valor del area del circulo es:",r)
+
+Pregunta = int(input("Requieres calcular el area de un cilindro","SI=1, NO=2"))
+
+if Pregunta=1:
+
+	h = int(input("Coloca el valor de la altura del cilindro"))
+  rescil = 2*p*radio*h+radio:
+  print("El area es:",rescil)
+  
+else: 
+  print("Programa terminado")
+  
+end if
